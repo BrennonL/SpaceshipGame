@@ -13,7 +13,6 @@ I used pygame, os, time, and random libraries for this project.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Pygame Tutorial - Creating Space Invaders](https://www.youtube.com/watch?v=Q-__8Xw9KTM)
 * [Pygame Tutorial - 16 - Adding Sounds and background music](https://www.youtube.com/watch?v=pcdB2s2y4Qc)
 
